@@ -1,0 +1,140 @@
+2023-06-19T16:26:20.135Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T16:27:20.149Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T16:28:11.243Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T16:29:26.558Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T16:29:58.554Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T16:32:20.388Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T16:51:45.849Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T16:52:49.241Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T16:53:56.103Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T16:54:02.676Z [employee logs!] info: [object Object]
+2023-06-19T16:55:18.651Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T16:55:27.264Z [employee logs!] info: [object Object]
+2023-06-19T16:55:27.668Z [employee logs!] info: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2023-06-19T16:56:45.553Z [employee logs!] info: [object Object]
+2023-06-19T16:56:45.980Z [employee logs!] info: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2023-06-19T16:57:13.539Z [employee logs!] info: [object Object]
+2023-06-19T16:57:13.904Z [employee logs!] info: [object Object]
+2023-06-19T16:57:39.449Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T17:01:58.461Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T17:02:06.638Z [employee logs!] info: [object Object]
+2023-06-19T17:02:07.407Z [employee logs!] info: [object Object]
+2023-06-19T17:02:26.678Z [employee logs!] info: [object Object]
+2023-06-19T17:02:27.143Z [employee logs!] info: [object Object]
+2023-06-19T17:03:52.492Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T17:04:51.908Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T17:05:34.529Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T17:05:41.116Z [employee logs!] info: [{"_id":"64904e08aaa5f0f979877c41","name":"ashish","description":"abcd","__v":0},{"_id":"64904e47d34be67366ab2795","name":"ashish","description":"abcd","__v":0},{"_id":"64904e66271bed0183921659","name":"ashish","description":"abcd","__v":0},{"_id":"64904e6f271bed018392165b","name":"ash","description":"abcd","__v":0},{"_id":"649075110e5b1fc8f4132de8","name":"rahul","description":"abcd","__v":0},{"_id":"6490760b09d28440b99d85d1","name":"ra","description":"abcd","__v":0},{"_id":"649088e943e7526eb6eadd94","name":"ra","description":"abcd","__v":0},{"_id":"6490890d5cb13f45e9d30b25","name":"ra","description":"abcd","__v":0},{"_id":"64908a0e5aeec994279a1cb3","name":"ra","description":"abcd","__v":0},{"_id":"64908a225aeec994279a1cb5","name":"ra","description":"abcd","__v":0},{"_id":"64908a7cced5919d6fe18e06","name":"ra","description":"abcd","__v":0},{"_id":"64908ab9938354d3d7285bdf","name":"ra","description":"abcd","__v":0}]
+2023-06-19T17:06:33.465Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T17:06:50.298Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T17:06:57.034Z [employee logs!] info: [object Object]
+2023-06-19T17:06:57.405Z [employee logs!] info: [{"_id":"64904e08aaa5f0f979877c41","name":"ashish","description":"abcd","__v":0},{"_id":"64904e47d34be67366ab2795","name":"ashish","description":"abcd","__v":0},{"_id":"64904e66271bed0183921659","name":"ashish","description":"abcd","__v":0},{"_id":"64904e6f271bed018392165b","name":"ash","description":"abcd","__v":0},{"_id":"649075110e5b1fc8f4132de8","name":"rahul","description":"abcd","__v":0},{"_id":"6490760b09d28440b99d85d1","name":"ra","description":"abcd","__v":0},{"_id":"649088e943e7526eb6eadd94","name":"ra","description":"abcd","__v":0},{"_id":"6490890d5cb13f45e9d30b25","name":"ra","description":"abcd","__v":0},{"_id":"64908a0e5aeec994279a1cb3","name":"ra","description":"abcd","__v":0},{"_id":"64908a225aeec994279a1cb5","name":"ra","description":"abcd","__v":0},{"_id":"64908a7cced5919d6fe18e06","name":"ra","description":"abcd","__v":0},{"_id":"64908ab9938354d3d7285bdf","name":"ra","description":"abcd","__v":0}]
+2023-06-19T17:07:24.202Z [employee logs!] info: [object Object]
+2023-06-19T17:07:24.767Z [employee logs!] info: {"name":"ra","description":"abcd","_id":"64908b4c882c42ecdbaa1325","__v":0}
+2023-06-19T17:10:58.491Z [employee logs!] info: [object Object]
+2023-06-19T17:10:58.491Z [employee logs!] info: the employee database api
+2023-06-19T17:10:58.752Z [employee logs!] info: [object Object]
+2023-06-19T17:10:58.756Z [employee logs!] info: {"error":"Error retrieving user"}
+2023-06-19T17:16:00.425Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T17:20:14.303Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T17:25:56.716Z [employee logs!] info: Server is running on port: 8000
+2023-06-19T17:26:07.544Z [employee logs!] info: [object Object]
+2023-06-19T17:26:07.983Z [employee logs!] info: {"name":"ra","description":"abcd","_id":"64908faf1873acd308e8bdcb","__v":0}
+2023-06-19T17:29:56.616Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T05:05:21.399Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T05:08:04.119Z [employee logs!] info: [object Object]
+2023-06-20T05:08:04.157Z [employee logs!] info: {"error":"Error creating user"}
+2023-06-20T05:08:17.619Z [employee logs!] info: [object Object]
+2023-06-20T05:08:17.963Z [employee logs!] info: {"name":"ra","email":"abcd","password":"abcd","DOB":"abcd","DOJ":"abcd","contact":1212121,"_id":"649134414b4790aab747294e","__v":0}
+2023-06-20T05:47:50.365Z [employee logs!] info: [object Object]
+2023-06-20T05:47:53.254Z [employee logs!] info: [{"_id":"64904e47d34be67366ab2795","name":"ashish","description":"abcd","__v":0},{"_id":"64904e6f271bed018392165b","name":"ash","description":"abcd","__v":0},{"_id":"649075110e5b1fc8f4132de8","name":"rahul","description":"abcd","__v":0},{"_id":"649134414b4790aab747294e","name":"ra","email":"abcd","password":"abcd","DOB":"abcd","DOJ":"abcd","contact":1212121,"__v":0}]
+2023-06-20T06:03:13.204Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T06:04:22.911Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T06:04:48.052Z [employee logs!] info: [object Object]
+2023-06-20T06:04:48.053Z [employee logs!] info: the employee database api
+2023-06-20T06:05:49.636Z [employee logs!] info: [object Object]
+2023-06-20T06:05:49.637Z [employee logs!] info: the employee database api
+2023-06-20T06:05:56.285Z [employee logs!] info: [object Object]
+2023-06-20T06:05:56.285Z [employee logs!] info: the employee database api
+2023-06-20T06:06:01.609Z [employee logs!] info: [object Object]
+2023-06-20T06:06:01.609Z [employee logs!] info: the employee database api
+2023-06-20T06:06:30.485Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T06:06:34.112Z [employee logs!] info: [object Object]
+2023-06-20T06:06:37.739Z [employee logs!] info: {"employees":[{"_id":"64904e47d34be67366ab2795","name":"ashish","description":"abcd","__v":0},{"_id":"64904e6f271bed018392165b","name":"ash","description":"abcd","__v":0},{"_id":"649075110e5b1fc8f4132de8","name":"rahul","description":"abcd","__v":0},{"_id":"649134414b4790aab747294e","name":"ra","email":"abcd","password":"abcd","DOB":"abcd","DOJ":"abcd","contact":1212121,"__v":0}],"currentPage":1,"totalPages":1}
+2023-06-20T06:07:42.724Z [employee logs!] info: [object Object]
+2023-06-20T06:07:43.326Z [employee logs!] info: {"employees":[{"_id":"64904e47d34be67366ab2795","name":"ashish","description":"abcd","__v":0}],"currentPage":1,"totalPages":4}
+2023-06-20T06:07:55.620Z [employee logs!] info: [object Object]
+2023-06-20T06:07:56.215Z [employee logs!] info: {"employees":[{"_id":"64904e6f271bed018392165b","name":"ash","description":"abcd","__v":0}],"currentPage":2,"totalPages":4}
+2023-06-20T06:08:03.720Z [employee logs!] info: [object Object]
+2023-06-20T06:08:04.486Z [employee logs!] info: {"employees":[{"_id":"649075110e5b1fc8f4132de8","name":"rahul","description":"abcd","__v":0}],"currentPage":3,"totalPages":4}
+2023-06-20T06:08:19.075Z [employee logs!] info: [object Object]
+2023-06-20T06:08:20.136Z [employee logs!] info: {"employees":[{"_id":"649134414b4790aab747294e","name":"ra","email":"abcd","password":"abcd","DOB":"abcd","DOJ":"abcd","contact":1212121,"__v":0}],"currentPage":4,"totalPages":4}
+2023-06-20T06:08:28.744Z [employee logs!] info: [object Object]
+2023-06-20T06:08:29.735Z [employee logs!] info: {"employees":[],"currentPage":5,"totalPages":4}
+2023-06-20T06:08:39.873Z [employee logs!] info: [object Object]
+2023-06-20T06:08:40.614Z [employee logs!] info: {"employees":[{"_id":"64904e47d34be67366ab2795","name":"ashish","description":"abcd","__v":0}],"currentPage":1,"totalPages":4}
+2023-06-20T06:09:10.845Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T06:55:49.335Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T06:57:58.196Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T06:59:25.464Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:00:53.047Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:02:21.548Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:02:40.197Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:03:14.679Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:04:15.447Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:09:39.048Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:09:41.439Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:12:49.708Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:14:25.070Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:16:26.797Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:18:49.378Z [employee logs!] info: [object Object]
+2023-06-20T07:18:49.831Z [employee logs!] info: {"error":"Employee already exists"}
+2023-06-20T07:19:24.519Z [employee logs!] info: [object Object]
+2023-06-20T07:19:24.796Z [employee logs!] info: {"error":"Employee already exists"}
+2023-06-20T07:20:22.709Z [employee logs!] info: [object Object]
+2023-06-20T07:20:23.112Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:23:35.470Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:23:44.570Z [employee logs!] info: [object Object]
+2023-06-20T07:23:44.958Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:24:31.920Z [employee logs!] info: [object Object]
+2023-06-20T07:24:32.285Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:27:39.179Z [employee logs!] info: [object Object]
+2023-06-20T07:27:39.568Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:27:58.590Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:28:07.514Z [employee logs!] info: [object Object]
+2023-06-20T07:28:07.958Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:29:42.321Z [employee logs!] info: [object Object]
+2023-06-20T07:29:42.628Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:31:08.214Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:31:18.963Z [employee logs!] info: [object Object]
+2023-06-20T07:31:19.264Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:31:55.980Z [employee logs!] info: [object Object]
+2023-06-20T07:31:56.530Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:32:05.465Z [employee logs!] info: [object Object]
+2023-06-20T07:32:05.790Z [employee logs!] info: {"error":"Employee already exists"}
+2023-06-20T07:32:31.454Z [employee logs!] info: [object Object]
+2023-06-20T07:32:31.767Z [employee logs!] info: {"error":"Employee already exists"}
+2023-06-20T07:34:52.734Z [employee logs!] info: [object Object]
+2023-06-20T07:34:52.749Z [employee logs!] info: {"error":"Error creating user"}
+2023-06-20T07:35:26.182Z [employee logs!] info: [object Object]
+2023-06-20T07:35:26.492Z [employee logs!] info: {"userId":"kljfhlkh","name":"r1dda","email":"ab1asdcd","password":"1bcsfdhdfd","DOB":"sd","DOJ":"fe","phone":1212121,"_id":"649156be60a893ea26a14d80","__v":0}
+2023-06-20T07:38:32.310Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:38:41.806Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:38:45.643Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:39:47.962Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T07:41:00.752Z [employee logs!] info: [object Object]
+2023-06-20T07:41:01.155Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:41:41.411Z [employee logs!] info: [object Object]
+2023-06-20T07:41:41.777Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:42:07.248Z [employee logs!] info: [object Object]
+2023-06-20T07:42:07.706Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:42:58.833Z [employee logs!] info: [object Object]
+2023-06-20T07:42:59.350Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:43:09.413Z [employee logs!] info: [object Object]
+2023-06-20T07:43:09.820Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:43:18.302Z [employee logs!] info: [object Object]
+2023-06-20T07:43:18.574Z [employee logs!] info: {"error":"Employee already exists"}
+2023-06-20T07:45:43.840Z [employee logs!] info: [object Object]
+2023-06-20T07:45:44.359Z [employee logs!] info: {"error":"Error registering employee"}
+2023-06-20T07:46:30.656Z [employee logs!] info: Server is running on port: 8000
+2023-06-20T10:53:15.422Z [employee logs!] info: Server is running on port: 8000
